@@ -30,15 +30,6 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 
-navbar-links:
-  Career: "career"
-  Publication: "publication"
-  Blog: "blog"
-  Project: "project"
-  GitHub: "https://github.com/seokho-son"
-  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
-
-  
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
