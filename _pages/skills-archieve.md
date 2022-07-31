@@ -1,6 +1,6 @@
 ---
 title: "Skills"
-layout: skills
+layout: page
 permalink: /skills/
 author_profile: true
 sidebar_main: true
