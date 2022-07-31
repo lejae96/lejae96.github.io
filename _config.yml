@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  name             : "Seoul National University"
+  avatar           : "/images/2022-07-31-first/my_profile.PNG"
+  bio              : "M.A. Student, Department of Geography"
+  location         : "Seoul, South Korea"
+  email            : "lejae96@snu.ac.kr"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
