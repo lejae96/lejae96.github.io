@@ -32,3 +32,5 @@ _site
 .vs/
 .bin/
 .obj/
+
+.html
