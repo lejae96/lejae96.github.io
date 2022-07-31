@@ -243,8 +243,8 @@ jekyll-archives:
   layouts:
     #category: archive-taxonomy
     #tag: archive-taxonomy
-    research: archive-taxonomy
-    skills: archive-taxonomy
+    research: page
+    skills: page
   permalinks:
     #category: /categories/:name/
     #tag: /tags/:name/
