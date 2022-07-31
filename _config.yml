@@ -29,6 +29,16 @@ logo                     : # "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
+
+navbar-links:
+  Career: "career"
+  Publication: "publication"
+  Blog: "blog"
+  Project: "project"
+  GitHub: "https://github.com/seokho-son"
+  Google Scholar: "https://scholar.google.com/citations?user=seokhoson"
+
+  
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -237,12 +247,21 @@ jekyll-archives:
   enabled:
     - categories
     - tags
+    - research
+    - skills
+    - about
   layouts:
     category: archive-taxonomy
     tag: archive-taxonomy
+    research: archive-taxonomy
+    skills: archive-taxonomy
+    about: archive-taxonomy
   permalinks:
     category: /categories/:name/
     tag: /tags/:name/
+    research: /research/:name/
+    skills: /skills/:name/
+    about: /about/:name/
 
 
 # HTML Compression
